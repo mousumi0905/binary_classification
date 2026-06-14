@@ -185,8 +185,8 @@ spaceship-titanic/
 
 ## 👤 Author
 
-**[Your Name]**
-📧 [your.email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 💼 [Portfolio](https://your-portfolio.com)
+**[Mousumi Kundu]**
+📧 [mousumikun22@gmail.com] 
 
 ---
 
